@@ -34,7 +34,7 @@ By calling to inner (text as parameter) or children (array as parameter) you can
 It's also possible to nest all these calls so having to create an object is not necessary.
 
   	print UI::div()->id("myDiv")->children([
-      	UI::p()->inner("This text is inside the p, as a children of #myDiv")
+      	    UI::p()->inner("This text is inside the p, as a children of #myDiv")
     	]);
 
 In HTML this translates to:
