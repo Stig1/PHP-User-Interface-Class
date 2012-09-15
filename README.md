@@ -4,7 +4,7 @@ PHP User Interface Class
 The UI class makes outputting large amounts of HTML from PHP a breeze.
 You won't have to break in and out of the PHP tags ever again and end up with cluttered unreadable code.
 The dynamic behaviour of the class makes it possible to create any HTML element with any number of given attributes,
-children, inner texts and so on and so forth.
+children, inner texts and so on.
 
 Usage
 -----
