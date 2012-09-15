@@ -11,12 +11,12 @@ Usage
 
 Simply make a static function call to UI where the function name represents the HTML element you want to create.
 
-  $div = UI::div();
-  print $div;
+    $div = UI::div();
+    print $div;
 
 In HTML this translated to:
 
-  <div></div>
+		<div></div>
 
 To add attributes simply make a function call to the element where the function name represents the attribute
 and the parameter representing the value.
