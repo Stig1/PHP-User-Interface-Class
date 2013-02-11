@@ -44,8 +44,3 @@ In HTML this translates to:
   	<div id="myDiv"><p>This text is inside the p, as a children of #myDiv</p></div>
 
 When working with attributes with a dash symbol like data-validation, just call the method as usual, but exchange the dash for a underscore; data_validation()
-
-Licensing
------------
-
-Feel free to use, change and distribute as wanted.
